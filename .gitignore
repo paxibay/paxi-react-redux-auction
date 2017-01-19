@@ -1,0 +1,22 @@
+# Dependency directory
+node_modules
+npm-debug.log
+.tmp
+.idea
+public
+compiled
+.swp
+.vscode
+
+bin
+obj
+.vscode
+*.csproj
+*.csproj.user
+
+dist
+src/**/*.js
+coverage
+
+.DS_Store
+*.log

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}
